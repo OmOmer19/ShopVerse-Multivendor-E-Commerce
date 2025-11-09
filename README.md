@@ -7,10 +7,10 @@ ShopVerse is a modern multi-vendor e-commerce platform built with React. It allo
 Frontend
 
 ## Deployed App
-Frontend:
+Frontend: [Live Demo](https://your-deployed-app-link.com)
 
 ## Directory Structure
-multi-vendor-e-commerce/
+ShopVerse-Multivendor-E-Commerce/
 src/
 ├─ components/
 │  ├─ CheckoutPage.jsx
