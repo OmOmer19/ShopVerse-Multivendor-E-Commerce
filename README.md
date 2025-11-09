@@ -10,10 +10,10 @@
 ShopVerse is a modern multi-vendor e-commerce platform built with React 🛒.It allows multiple vendors to register, manage their products 📦, and track orders ✅, while users can browse, add items to their cart 🛍️, and place orders seamlessly. The app solves the problem of managing multiple sellers in one storefront and provides an intuitive interface for both vendors and users.
 
 ## Project Type
-Frontend
+Frontend 💻
 
 ## Deployed App
-Frontend: [Live Demo](https://shop-verse-multivendor-e-commerce.vercel.app/)
+Frontend: [Live Demo 🚀](https://shop-verse-multivendor-e-commerce.vercel.app/)
 
 ## Directory Structure
 ShopVerse-Multivendor-E-Commerce/
