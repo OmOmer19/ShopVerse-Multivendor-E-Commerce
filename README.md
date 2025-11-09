@@ -1,5 +1,11 @@
 # ShopVerse - a Multi-Vendor E-Commerce Platform
 
+![React](https://img.shields.io/badge/React-17.0.2-blue)
+![Vite](https://img.shields.io/badge/Vite-4.0.0-green)
+![Tailwind CSS](https://img.shields.io/badge/TailwindCSS-3.3.2-blueviolet)
+![License](https://img.shields.io/badge/License-MIT-yellow)
+
+
 ## Introduction
 ShopVerse is a modern multi-vendor e-commerce platform built with React. It allows multiple vendors to register, manage their products, and track orders, while users can browse, add items to their cart, and place orders seamlessly. The app solves the problem of managing multiple sellers in one storefront and provides an intuitive interface for both vendors and users.
 
@@ -51,9 +57,13 @@ src/
 - Multi-vendor registration and authentication
 - Vendor dashboard for managing products and orders
 - Product listing fetched dynamically from [Fake Store API](https://fakestoreapi.com/products)
--  add to cart functionality for users
+- Add to cart functionality for users
 - User cart management and order placement
 - Order confirmation and history views for users and vendors
+
+## Screenshots
+![Homepage](<img width="1900" height="907" alt="multivendor" src="https://github.com/user-attachments/assets/9b666322-5f61-4229-b6b0-1202d96f7c4a" />
+)
 
 ## Design Decisions or Assumptions
 - Used React Context and useReducer for global state management (cart and vendor auth)
@@ -68,12 +78,13 @@ src/
 
 ## Installation & Getting Started
  clone the repository:
- ````bash
- git clone https://github.com/OmOmer19/Project-1.git
+ ```bash
+ git clone https://github.com/OmOmer19/ShopVerse-Multivendor-E-Commerce.git
 
- cd multi-vendor-e-commerce
+ cd ShopVerse-Multivendor-E-Commerce
  npm install
  npm run dev
+```
 
 ## Usage
 - Browse products on the homepage.
@@ -102,6 +113,15 @@ and any other that anyone can do
 - Fake Store API (for product data)
 - Tailwind CSS (for styling)
 - Lucide-react (icons)
+
+## Future Features
+- Backend integration for storing vendors, products, and orders
+- User authentication and registration
+- Payment gateway integration (Stripe, PayPal, etc.)
+- Real-time order tracking for users and vendors
+- Admin dashboard for managing vendors and users
+- Dark mode support
+- Notifications for order updates
 
 ## API Endpoints
 - No backend APIs yet.
